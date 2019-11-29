@@ -10,6 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/art": "https://github.com/richardbarrell-calvium/art.git#814010e8cea6e014a046f0da56d573e1395f6844",
     "@types/jest": "^24.0.23",
     "@types/react": "^16.9.13",
     "@types/react-native": "^0.60.23",
